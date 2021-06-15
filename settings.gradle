@@ -1,0 +1,3 @@
+rootProject.name = "PRDownloader"
+include ':app'
+include ':prdownloader'
